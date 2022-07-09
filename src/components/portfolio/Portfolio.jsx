@@ -17,8 +17,8 @@ const Portfolio = () => {
           </div>
         
             <h3>Idk what to put here now</h3>  <div className='portfolio__item-cta'>
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
+            <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
           </div>
         </article>
         <article className='potfolio__item'>
@@ -27,8 +27,8 @@ const Portfolio = () => {
           </div>
          
             <h3>Idk what to put here now</h3> <div className='portfolio__item-cta'>
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
+            <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
           </div>
         </article>
         <article className='potfolio__item'>
@@ -37,8 +37,8 @@ const Portfolio = () => {
           </div>
          
             <h3>Idk what to put here now</h3> <div className='portfolio__item-cta'>
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com" className='btn' target='_blank' rel='noreferrer'>Github</a>
+            <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
           </div>
         </article>
         

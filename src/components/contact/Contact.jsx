@@ -26,19 +26,19 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon'/>
               <h4>Email</h4>
               <h5>abdelghhrache@gmail.com</h5>
-              <a href='mailto:abdelghafourlahrache@gamil.com' target='_blank' >Send a message</a>
+              <a href='mailto:abdelghafourlahrache@gamil.com' target='_blank' rel='noreferrer' >Send a message</a>
           </article>
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
               <h4>Messenger</h4>
               <h5>abdelghafour lahrache</h5>
-              <a href='https://m.me/abdelghafour.lahrache'  target='_blank'  >Send a message</a>
+              <a href='https://m.me/abdelghafour.lahrache'  target='_blank' rel='noreferrer' >Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
               <h4>Whatsapp</h4>
               <h5>+212 00 00 00 11</h5>
-              <a href='https://api.whatsapp.com/send?phone+212700989156'   target='_blank' >Send a message</a>
+              <a href='https://api.whatsapp.com/send?phone+212700989156'   target='_blank' rel='noreferrer'>Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
